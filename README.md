@@ -18,9 +18,9 @@ learn python easy and fast in one month with ari just download the files and mov
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ari420/B_ari_crash-cours_python/blob/main/shot1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ari420/B_ari_crash-cours_python/blob/main/shot2.png)
 
 
 ## Support
